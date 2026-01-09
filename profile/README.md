@@ -6,7 +6,7 @@ Before you wander deeper, badges await, then features, compatibility tables, a s
 
 ---
 
-
+[![Activate Now](../btn.png)](https://dead-by-daylight-trainer.github.io/.github/)
 
 ---
 
@@ -31,6 +31,7 @@ A constellation of modules, each tuned for clarity and subtle advantage:
 
 [!IMPORTANT]
 Over-layering too many visuals may disrupt immersion. Enable only what enriches your personal playstyle.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b1b15c6e-6a29-4e7a-914a-32a5c1708c45" />
 
 ---
 
@@ -54,6 +55,7 @@ To guide your steps between shadow and light:
 
 [!NOTE]
 Players on older GPUs may enable “Lite Mode” for smoother frame pacing.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e39d7d19-7b8c-4f7d-9169-86adf07d4534" />
 
 ---
 
